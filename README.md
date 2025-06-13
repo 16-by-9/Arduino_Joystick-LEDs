@@ -60,6 +60,3 @@ The joystick’s neutral (centered) position is read once at startup, allowing t
 - Add a **buzzer** for auditory feedback
 
 ---
-
-## 🔗 License
-Feel free to use and modify this project as you like. Attribution appreciated but not required.
