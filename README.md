@@ -53,8 +53,7 @@ The joystick’s neutral (centered) position is read once at startup, allowing t
 
 ---
 
-## 🌈 Optional Ideas for Future
-- Add blended colors for diagonal movements (e.g., cyan for up-right)
+## Optional Ideas for Future
 - Replace individual LEDs with a **single RGB LED module** for simpler wiring
 - Display direction data on an **OLED screen** alongside the LEDs
 - Add a **buzzer** for auditory feedback
